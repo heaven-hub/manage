@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e62f8"],{9858:function(e,n,c){"use strict";c.r(n);var t=function(){var e=this,n=e.$createElement,c=e._self._c||n;return c("div",[e._v(" 商品统计 ")])},u=[],r={},s=r,a=c("c701"),i=Object(a["a"])(s,t,u,!1,null,"cef46288",null);n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0e62f8.9d6211e9.js.map
